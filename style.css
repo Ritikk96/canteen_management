@@ -111,6 +111,7 @@ body {
     font-weight: bolder;
     align-items: end;
     color: #e30c0c;
+    margin-right: 30px;
     
 }
 
@@ -127,7 +128,7 @@ body {
 }
 
 .right_nav_item button:hover {
-    background-color: #1b1a1a;
+    background-color: blue;
     transform: scale(1.1);
 }
 
